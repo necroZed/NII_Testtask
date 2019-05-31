@@ -1,0 +1,2 @@
+toDollar 1,5
+toEuro 0,8
